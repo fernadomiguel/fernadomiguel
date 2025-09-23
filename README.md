@@ -38,10 +38,10 @@
 
 ## 🧠 AI & Python
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&animation=spin" />
+<img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 ---
@@ -66,12 +66,12 @@
 
 ## 🛠 Tools
 <div align="center">
-<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=spin" />
-<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white&animation=spin" />
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -86,8 +86,9 @@
 
 ## 📫 Contact
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&animation=spin)](https://www.linkedin.com/in/fernando-miguel-de-lima-martins-bb07421b1/)  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&animation=spin)](mailto:fernandomiguel4500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-miguel-de-lima-martins-bb07421b1/
+)  
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandomiguel4500@gmail.com)
 </div>
 
 ---
