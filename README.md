@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Miguel;I'm+19+years+old;I+am+from+Guarulhos,+SP;Studying+Systems+Analysis+and+Development;Focus+on+Java+%26+Artificial+Intelligence;Cloud+enthusiast+(AWS);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Miguel;I'm+20+years+old;I+am+from+Guarulhos,+SP;Studying+Systems+Analysis+and+Development;Focus+on+Java+%26+Spring+Boot;Exploring+Artificial+Intelligence+and+AWS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernandomiguel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Miguel github stats" /> 
@@ -17,15 +17,16 @@
 
 ### 👨‍💻 About Me
 📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
-☕ Foco principal em **Java** para desenvolvimento backend  
-🤖 Estudando **Python** com aplicações em **Inteligência Artificial e Data Science**  
+☕ Foco principal em **Java** e **Spring Boot** para desenvolvimento backend  
+🤖 Estudando **Python** voltado para **Inteligência Artificial e Data Science**  
 ☁️ Explorando **AWS Cloud** e boas práticas de DevOps  
 🚀 Objetivo: unir **engenharia de software, cloud e IA** para criar soluções inovadoras e escaláveis  
 
 ---
 
-### ☕ Main Language
+### ☕ Main Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
@@ -65,6 +66,7 @@
 - [AI Chatbot](https://github.com/fernandomiguel/ai-chatbot) 🤖  
 - [Car Store Website](https://github.com/fernandomiguel/car-store) 🏎️  
 - [Health Care App](https://github.com/fernandomiguel/health-care-app) 💊  
+- [Spring Boot API](https://github.com/fernandomiguel/springboot-api) ⚡  
 
 ---
 
@@ -77,13 +79,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fernandomiguel&color=00bfbf)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-miguel-de-lima-martins-bb07421b1/)  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandomiguel4500@gmail.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=fernandomiguel&color=00bfbf)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
