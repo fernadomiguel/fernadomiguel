@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=8b5cf6&size=26&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot;Node.js+%26+.NET;AI+Applied+to+Software+Engineering;Cloud+%2B+Docker+Enthusiast;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=8b5cf6&size=26&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;AI+Applied+to+Software+Engineering;Cloud+%2B+Docker+Enthusiast;ERP+System+in+Development" />
 </p>
 
 ---
@@ -17,45 +17,114 @@
 <div align="center">
 
 🎓 Systems Analysis & Development  
+💼 Experiência com **Infraestrutura de TI e Sistemas**  
 ☕ Backend com **Java, Node.js e .NET**  
-🤖 IA aplicada ao desenvolvimento e automação  
-☁️ AWS, Cloud e DevOps  
-🚀 Foco em sistemas escaláveis e bem arquitetados  
+🤖 Uso de **IA (LLMs)** para desenvolvimento e automação  
+☁️ Explorando **AWS, Cloud Architecture e DevOps**  
+🚀 Foco em **sistemas escaláveis e bem arquitetados**
 
 </div>
 
 ---
 
-## 🏗️ ERP THESYS
+## 🏗️ ERP THESYS (Work in Progress 🚧)
+
 <div align="center">
 
-Sistema ERP moderno com arquitetura escalável e **TypeScript end-to-end**,  
-utilizando IA (LLMs) para acelerar desenvolvimento e decisões técnicas.
+Desenvolvendo um **ERP moderno** com arquitetura escalável,  
+utilizando **TypeScript end-to-end** e boas práticas de engenharia.
+
+🤖 Projeto desenvolvido com apoio de **IA (Claude / LLMs)**  
+para acelerar desenvolvimento, refatoração e decisões técnicas.
 
 </div>
+
+---
+
+## 🎯 Objetivo do Projeto
+
+- Criar um ERP modular e escalável  
+- Aplicar conceitos reais de **arquitetura de software**  
+- Utilizar **monorepo e tipagem forte compartilhada**  
+- Integrar **backend, frontend e infraestrutura moderna**  
+- Aumentar produtividade com **AI-assisted development**
+
+---
+
+## ⚙️ Arquitetura (Resumo)
+
+- Arquitetura **modular (NestJS + Next.js)**  
+- Comunicação baseada em **APIs tipadas (Zod)**  
+- Uso de **Redis + filas (BullMQ)** para processamento assíncrono  
+- Separação clara entre **camadas (frontend, backend, infra)**  
+- Estrutura em **monorepo (Turborepo)**  
 
 ---
 
 ## ⚡ Tech Stack
-
-### 💻 Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,nodejs,dotnet" />
-</div>
 
 ### 🌐 Frontend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts" />
 </div>
 
-### 🗄️ Database
+- Next.js (App Router)  
+- React  
+- TanStack Query / Table  
+- Zustand  
+- React Hook Form + Zod  
+
+---
+
+### 🎨 UI
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,redis" />
+
+shadcn/ui + Tailwind CSS  
+
 </div>
 
-### ☁️ DevOps
+---
+
+### 💻 Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</div>
+
+- NestJS  
+- Prisma ORM  
+- PostgreSQL  
+- Redis  
+- BullMQ  
+
+---
+
+### 🔐 Auth & Security
+- JWT  
+- Passport  
+- bcrypt  
+
+---
+
+### ☁️ DevOps & Infra
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
+</div>
+
+- Docker / Docker Compose  
+- Nginx  
+- Turborepo + pnpm  
+
+---
+
+### 🤖 AI in Development
+<div align="center">
+
+- Uso de LLMs (Claude, OpenAI) para:
+  - geração de código  
+  - refatoração  
+  - apoio em arquitetura  
+  - automação de tarefas  
+
 </div>
 
 ---
