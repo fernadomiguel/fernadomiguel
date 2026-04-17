@@ -1,16 +1,14 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=160&section=header"/>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:00ffea&height=160&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Fernando Miguel</h1>
 
 <p align="center">
-💻 Java & Spring Boot Developer <br>
-🚀 Systems Analysis & Development Student <br>
-☁️ Cloud & AI Enthusiast
+💻 Backend Developer | 🤖 AI Engineer (in progress) | ☁️ Cloud Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00ffea&size=28&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot+Developer;Exploring+AI+%26+Cloud+Computing;Building+Scalable+Applications;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00ffea&size=28&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot+Developer;AI+Applied+to+Software+Engineering;Building+Scalable+Systems;Automation+%26+Cloud+Enthusiast" />
 </p>
 
 ---
@@ -18,34 +16,41 @@
 ## 👨‍💻 About Me
 <div align="center">
 
-🎓 Studying **Systems Analysis & Development**  
-☕ Focused on **Java + Spring Boot (Backend)**  
-🤖 Learning **Python for AI & Data Science**  
-☁️ Exploring **AWS, Cloud & DevOps**  
-🚀 Passionate about building **scalable and intelligent systems**
+🎓 Student in **Systems Analysis & Development**  
+☕ Focused on **Backend with Java + Spring Boot**  
+🤖 Applying **AI (LLMs) in software development and automation**  
+☁️ Exploring **AWS, Cloud Architecture & DevOps**  
+🚀 Building solutions combining **Backend + AI + Scalability**
 
 </div>
 
 ---
 
-## ⚡ GitHub Stats
+## 🧠 AI Engineering & Software Architecture
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fernandomiguel&show_icons=true&count_private=true&hide_border=true&title_color=00ffea&icon_color=00ffea&text_color=c9d1d9&bg_color=0d1117" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomiguel&layout=compact&hide_border=true&title_color=00ffea&text_color=00ffea&bg_color=0d1117" />
+
+🔹 Use of **LLMs (OpenAI, Claude, etc.)** in software development  
+🔹 Code generation, refactoring and optimization with AI tools  
+🔹 Support in **software architecture decisions and design**  
+🔹 Development of **chatbots for corporate environments (RH / IT)**  
+🔹 Automation of workflows and internal processes using AI  
+🔹 Focus on productivity, scalability and intelligent systems  
+
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Backend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
 </div>
 
-### 🌐 Frontend
+### 🤖 AI & Data
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge"/>
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -53,18 +58,17 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </div>
 
-### 🧠 AI & Data
+### 🌐 Web
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
 ---
 
-## 🛠 Tools
+## 📊 GitHub Stats
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fernandomiguel&show_icons=true&count_private=true&hide_border=true&title_color=00ffea&icon_color=00ffea&text_color=c9d1d9&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomiguel&layout=compact&hide_border=true&title_color=00ffea&text_color=00ffea&bg_color=0d1117" />
 </div>
 
 ---
@@ -72,10 +76,17 @@
 ## 🚀 Featured Projects
 <div align="center">
 
-🔹 [AI Chatbot](https://github.com/fernandomiguel/ai-chatbot)  
-🔹 [Car Store Website](https://github.com/fernandomiguel/car-store)  
-🔹 [Health Care App](https://github.com/fernandomiguel/health-care-app)  
-🔹 [Spring Boot API](https://github.com/fernandomiguel/springboot-api)
+🔹 **AI Chatbot (RH & IT Automation)**  
+Chatbot integrado para suporte interno com automação de respostas e processos  
+
+🔹 **Spring Boot API**  
+API backend com foco em escalabilidade e boas práticas  
+
+🔹 **Car Store Platform**  
+Sistema web completo com frontend + backend  
+
+🔹 **Health Care System**  
+Aplicação com gerenciamento de usuários (paciente, médico, admin)  
 
 </div>
 
@@ -101,4 +112,4 @@
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffea&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,100:00bfff&height=120&section=footer"/>
