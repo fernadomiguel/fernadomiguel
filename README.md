@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Fernando Miguel</h1>
 
 <p align="center">
-💻 Backend Developer | 🤖 AI Engineer (in progress) | ☁️ Cloud Enthusiast
+💻 Backend / Fullstack Developer | 🤖 AI Engineer (in progress) | ☁️ Cloud & DevOps
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00ffea&size=28&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot+Developer;AI+Applied+to+Software+Engineering;Building+Scalable+Systems;Automation+%26+Cloud+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00ffea&size=26&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot;Node.js+%26+.NET;AI+Applied+to+Software+Engineering;Cloud+%2B+Docker+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -17,10 +17,11 @@
 <div align="center">
 
 🎓 Student in **Systems Analysis & Development**  
-☕ Focused on **Backend with Java + Spring Boot**  
-🤖 Applying **AI (LLMs) in software development and automation**  
+💼 Experience in **IT Infrastructure & Systems Support**  
+☕ Backend focused on **Java + Spring Boot, Node.js and .NET**  
+🤖 Applying **AI (LLMs)** to development, automation and productivity  
 ☁️ Exploring **AWS, Cloud Architecture & DevOps**  
-🚀 Building solutions combining **Backend + AI + Scalability**
+🚀 Building scalable systems combining **Backend + AI + Cloud**
 
 </div>
 
@@ -29,12 +30,12 @@
 ## 🧠 AI Engineering & Software Architecture
 <div align="center">
 
-🔹 Use of **LLMs (OpenAI, Claude, etc.)** in software development  
+🔹 Use of **LLMs (OpenAI, Claude, etc.)** in development workflows  
 🔹 Code generation, refactoring and optimization with AI tools  
-🔹 Support in **software architecture decisions and design**  
+🔹 Support in **software architecture and system design decisions**  
 🔹 Development of **chatbots for corporate environments (RH / IT)**  
-🔹 Automation of workflows and internal processes using AI  
-🔹 Focus on productivity, scalability and intelligent systems  
+🔹 Automation of processes using AI  
+🔹 Focus on scalable and maintainable systems  
 
 </div>
 
@@ -44,13 +45,17 @@
 
 ### 💻 Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,dotnet" />
 </div>
 
-### 🤖 AI & Data
+### 🌐 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-<img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css" />
+</div>
+
+### 🗄️ Database
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -58,9 +63,10 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </div>
 
-### 🌐 Web
+### 🤖 AI & Data
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge"/>
 </div>
 
 ---
@@ -77,16 +83,16 @@
 <div align="center">
 
 🔹 **AI Chatbot (RH & IT Automation)**  
-Chatbot integrado para suporte interno com automação de respostas e processos  
+Chatbot corporativo com automação de respostas e integração com sistemas internos  
 
 🔹 **Spring Boot API**  
 API backend com foco em escalabilidade e boas práticas  
 
 🔹 **Car Store Platform**  
-Sistema web completo com frontend + backend  
+Sistema fullstack com frontend e backend integrados  
 
 🔹 **Health Care System**  
-Aplicação com gerenciamento de usuários (paciente, médico, admin)  
+Sistema com múltiplos perfis (paciente, médico e administrador)  
 
 </div>
 
